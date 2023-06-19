@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wootermelon
 - 👀 I’m interested in low level programming
-- 🌱 I’m currently learning not to hate Java
+- 🌱 I’m currently learning about OpenMP offloading for manycore processors
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: omisviden on Discord
